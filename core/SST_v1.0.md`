@@ -1,0 +1,14 @@
+Create `core/SST_v1.0.md` and paste the Search State Template we wrote earlier (I can resend just that section if you want it isolated).
+
+---
+
+## 7️⃣ Stubs for the others (just to make the repo look “alive”)
+
+### `examples/pst_article_example.md` (stub is fine for now)
+
+```markdown
+# PST Example – Dev Article: "Navigating AI Projects Without Scrolling to Death"
+
+This example will demonstrate how `PST_v1.1` can be used inside an AI chat to structure a DevCommunity article.
+
+(Real example run to be added from Claude/Grok logs.)
