@@ -1,0 +1,27 @@
+# State Engine Framework – Roadmap
+
+## v1.x – Core Templates
+
+- [x] PST_v1.1 – Project State Template
+- [x] SST_v1.0 – Search State Template
+- [ ] CST_v1.0 – Coding State Template
+- [ ] WST_v1.0 – Writing State Template
+- [ ] DST_v1.0 – Data State Template
+- [ ] RST_v1.0 – Research State Template
+- [ ] TST_v1.0 – Trading State Template
+
+## v2.x – Ecosystem
+
+- [ ] Kaggle Dataset: `state-engine-templates`
+- [ ] Kaggle Notebook: `state-engine-playground`
+- [ ] Example gallery for each template
+- [ ] Simple website / docs page (optional)
+
+## Ideas
+
+- Template Generator Template (TGT): a meta-template to help people design new State Templates.
+- Integration examples for:
+  - AI coding sessions (multi-file repos)
+  - Story / novel writing workflows
+  - Trading logs and scenario maps
+  - Research / paper reading pipelines
